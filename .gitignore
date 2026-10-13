@@ -1,4 +1,4 @@
-
-node_modules/
-deb
-echo
+node_modules
+.env
+*.log
+.aws
